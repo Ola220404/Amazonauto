@@ -99,8 +99,7 @@
         <plugin>
           <artifactId>maven-site-plugin</artifactId>
           <version>3.7.1</version>
-        </plugin>
-        <plugin>
+        </plugin>co.uk
           <artifactId>maven-project-info-reports-plugin</artifactId>
           <version>3.0.0</version>
         </plugin>
